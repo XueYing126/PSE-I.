@@ -1,0 +1,19 @@
+6
+property
+service 1500
+luckyfield 150
+property
+property
+luckyfield 100
+3
+JonSnow Tactical
+AryaStark  Greedy
+DaenerysTargaryen Careful
+
+3 6 5 2 1 4 5 2 3 6 2 5 2 1 2 3 6 4 5 2 5 4 6 3 2 1 6 5 
+ 3 1 4 3 2 4 1 2 5 3 6 5 2 1 4 5 2 3 6 2 5 2 1 2 3 6 4 5 2 5 4 6 3 2 1 6 5 2 3 1 4 3 2 4 1 2 
+5 3 6 5 2 1 4 5 2 3 6 2 5 2 1 2 3 6 4 5 2 5 4 6 3 2 1 6 5 2 3 1 4 3 2 4 1 2 5 3 6 5 2 1 4 5 
+2 3 6 2 5 2 1 2 3 6 4 5 2 5 4 6 3 2 1 6 5 2 3 1 4 3 2 4 1 2 5 3 6 5 2 1 4 5 2
+4 2 1 2 3
+3 2 5 1 2 2 1 1 1 2 4 4 2 6 6 4 2 1 2 3
+3 2 5 1 2 2 1 1 1 2 

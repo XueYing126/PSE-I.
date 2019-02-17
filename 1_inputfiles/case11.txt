@@ -1,0 +1,8 @@
+2 
+property
+service 9000
+2
+Alice Greedy
+Bran Greedy
+
+1 1 2 1 2 1 2 1
